@@ -7,3 +7,7 @@ Loaded a SQLite database: imported sqlite3 conn = sqlite3.connect("sales_data.db
 connected to a database,defined the query,executed the query,printed the results and closed the connection in the below image
 ![Screenshot 2025-05-03 212439](https://github.com/user-attachments/assets/c427bbbb-4b91-471a-b117-1b30840ac083)
 in the above image i selected the products by scripts and calculated the sum of all the products and generated the total revenue from it in above image
+loaded the pandas into anaconda application due to system software error log that took me a lot of time and in the below image printed the results of revenue and plotted a simple bar chart 
+![Screenshot 2025-05-05 003814](https://github.com/user-attachments/assets/7c591520-c538-4c05-9bf3-0988d623296e)
+and in the below image save the chart like sales.png[code5]
+![Screenshot 2025-05-05 003914](https://github.com/user-attachments/assets/d3df89ff-f757-47ca-9ed9-215b6512ee22)
